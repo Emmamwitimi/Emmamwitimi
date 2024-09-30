@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmamwitimi
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning data visualization
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web developmnt
+- 🌱 I’m currently learning flask
+- 💞️ I’m looking to collaborate on dynamic web projects
 - 📫 How to reach me via email emmamwitimi14@gmail.com
 
 <!---
